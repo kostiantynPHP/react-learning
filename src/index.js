@@ -18,7 +18,6 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
- rr
 /*import * as serviceWorker from './serviceWorker';
 import { createStore } from 'redux';
 
